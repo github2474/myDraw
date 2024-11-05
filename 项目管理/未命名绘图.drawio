@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
-  <diagram name="Page-1" id="9c096ad6-e400-ecc8-3e38-643d2caac077">
-    <mxGraphModel dx="1437" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+  <diagram name="前导图" id="9c096ad6-e400-ecc8-3e38-643d2caac077">
+    <mxGraphModel dx="1341" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -81,12 +81,6 @@
         </mxCell>
         <mxCell id="3cfceab9cabfe5b9-18" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; align=&quot;center&quot;&gt;H&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;8&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;5 day&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Mon 12/2&lt;/font&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Mon 16/2&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=default;fillColor=#f5f5f5;overflow=fill;rounded=0;shadow=1;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="1122" y="432" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3cfceab9cabfe5b9-59" value="" style="line;strokeWidth=1;html=1;rounded=1;fontSize=12;align=center;verticalAlign=middle;strokeColor=#FF0000;endFill=1;endArrow=classic;endSize=10;startSize=10;" parent="1" vertex="1">
-          <mxGeometry x="87" y="1105" width="68" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="3cfceab9cabfe5b9-60" value="Preferred route" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="172" y="1100" width="143" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
